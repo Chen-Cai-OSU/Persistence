@@ -2,7 +2,7 @@
 
 You will need to install
 * Install [scikit-learn](https://scikit-learn.org/stable/install.html), [sklearn-tda](https://github.com/MathieuCarriere/sklearn-tda)
-* pip install matplotlib
+* pip install matplotlib numpy
 
 
 First go through tutorial.ipynb and make sure you understand the related concepts. 
