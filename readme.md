@@ -13,6 +13,7 @@ IDE
 You may consider install [Pycharm](https://www.jetbrains.com/pycharm/) as your IDE. Either professional or free community version is fine.
 
 # Tutorial for Clustering Persistence Diagrams
+You can run either tutorial.py or tutorial.ipynb. The code are exactly the same.
 
 First go through tutorial.ipynb and make sure you understand the related concepts. 
 Once you are confident about the all the functions (I added some comments for most functions), feel free to modify it such as changeing kernels 
