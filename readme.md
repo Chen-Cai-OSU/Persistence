@@ -1,11 +1,15 @@
 
 # Environment setup
+I only have experience in MacOS and Ubuntu so it is recomended that you use these system if possible. For windows, I can also
+try to help but my knowledge might be limited. 
+
 Install [anaconda](https://docs.anaconda.com/anaconda/install/mac-os/). Take a look
 at this [viedo](https://www.youtube.com/watch?v=uz6r0id2apA) if you run into some trouble.
 
 To run the tutorial, you will need to install
 * pip install matplotlib numpy
-* Install [scikit-learn](https://scikit-learn.org/stable/install.html), [sklearn-tda](https://github.com/MathieuCarriere/sklearn-tda)
+* Install [scikit-learn](https://scikit-learn.org/stable/install.html), [sklearn-tda](https://github.com/MathieuCarriere/sklearn-tda).
+sklearn depends on gudhi so it is also suggested to install the gudhi (although you don't need to gudhi to run tutorial.py). You can install [gudhi](https://gudhi.inria.fr/#) from conda, see [here](https://anaconda.org/conda-forge/gudhi).
 * (optional) it is recommended that you also install jupyter notebook. Take a look at 
 this quick start [guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/). 
 
