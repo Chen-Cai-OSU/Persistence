@@ -9,18 +9,25 @@ To run the tutorial, you will need to install
 * (optional) it is recommended that you also install jupyter notebook. Take a look at 
 this quick start [guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/). 
 
-IDE
-You may consider install [Pycharm](https://www.jetbrains.com/pycharm/) as your IDE. Either professional or free community version is fine.
+IDE: You may consider install [Pycharm](https://www.jetbrains.com/pycharm/) as your IDE. Either professional or free community version is fine.
+
+# Run the code
+
+* It's good to know a bit command line basics. Check [this](https://lifehacker.com/a-command-line-primer-for-beginners-5633909) out.
 
 * download the repository: ``git clone git@github.com:Chen-Cai-OSU/Persistence.git``
 
 * go to the downloaded folder: ``cd Persistence``
 
-* run the example: ``python tutorial.py``
+* run the example: ``python tutorial.py``. I made a [viedo](https://www.dropbox.com/sh/bx7j4f2ql1unri6/AAAbegeJ6OHl8MDSL7EXuFEma?dl=0) explaining what the code is doing 
+on the high level.
+
+* You can also look at tutorial.ipynb. This is a jupyter notebook. If you can't open the file 
+(github sometimes will be slow rendering the notebook, copy the link of notebook https://github.com/Chen-Cai-OSU/Persistence/blob/master/tutorial.ipynb at https://nbviewer.jupyter.org/)
 
 
 # Tutorial for Clustering Persistence Diagrams
-You can run either tutorial.py or tutorial.ipynb. The code are exactly the same.
+You can run either tutorial.py or tutorial.ipynb. The code are the same.
 
 First go through tutorial.ipynb and make sure you understand the related concepts. 
 Once you are confident about the all the functions (I added some comments for most functions), feel free to modify it such as changeing kernels 
