@@ -4,13 +4,20 @@ Install [anaconda](https://docs.anaconda.com/anaconda/install/mac-os/). Take a l
 at this [viedo](https://www.youtube.com/watch?v=uz6r0id2apA) if you run into some trouble.
 
 To run the tutorial, you will need to install
-* Install [scikit-learn](https://scikit-learn.org/stable/install.html), [sklearn-tda](https://github.com/MathieuCarriere/sklearn-tda)
 * pip install matplotlib numpy
+* Install [scikit-learn](https://scikit-learn.org/stable/install.html), [sklearn-tda](https://github.com/MathieuCarriere/sklearn-tda)
 * (optional) it is recommended that you also install jupyter notebook. Take a look at 
 this quick start [guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/). 
 
 IDE
 You may consider install [Pycharm](https://www.jetbrains.com/pycharm/) as your IDE. Either professional or free community version is fine.
+
+* download the repository: ``git clone git@github.com:Chen-Cai-OSU/Persistence.git``
+
+* go to the downloaded folder: ``cd Persistence``
+
+* run the example: ``python tutorial.py``
+
 
 # Tutorial for Clustering Persistence Diagrams
 You can run either tutorial.py or tutorial.ipynb. The code are exactly the same.
