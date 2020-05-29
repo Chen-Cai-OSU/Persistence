@@ -4,7 +4,7 @@ I only have experience in MacOS and Ubuntu so it is recomended that you use thes
 try to help but my knowledge might be limited. 
 
 Install [anaconda](https://docs.anaconda.com/anaconda/install/mac-os/). Take a look
-at this [viedo](https://www.youtube.com/watch?v=uz6r0id2apA) if you run into some trouble.
+at this [video](https://www.youtube.com/watch?v=uz6r0id2apA) if you run into some trouble.
 
 To run the tutorial, you will need to install
 * pip install matplotlib numpy
@@ -23,7 +23,7 @@ IDE: You may consider install [Pycharm](https://www.jetbrains.com/pycharm/) as y
 
 * go to the downloaded folder: ``cd Persistence``
 
-* run the example: ``python tutorial.py``. I made a [viedo](https://www.dropbox.com/sh/bx7j4f2ql1unri6/AAAbegeJ6OHl8MDSL7EXuFEma?dl=0) explaining what the code is doing 
+* run the example: ``python tutorial.py``. I made a [video](https://www.dropbox.com/sh/bx7j4f2ql1unri6/AAAbegeJ6OHl8MDSL7EXuFEma?dl=0) explaining what the code is doing 
 on the high level.
 
 * You can also look at tutorial.ipynb. This is a jupyter notebook. If you can't open the file 
